@@ -1,3 +1,6 @@
+# Coded by Alexis PONDO
+# Pentester | Cybersecurity | InfoSec
+#************************************
 from math import sqrt
 from random import *
 
